@@ -1,0 +1,6 @@
+[package]
+name = "CrO"
+version = "0.1.0"
+authors = ["Rezan <rezan@kizilguen.com>"]
+
+[dependencies]

@@ -8,7 +8,7 @@
             "label": "cargo build",
             "command": "cargo",
             "args": [
-                "build -non_snake_case"
+                "build"
             ],
             "problemMatcher": [
                 "$rustc"
@@ -19,7 +19,7 @@
             "label": "cargo run",
             "command": "cargo",
             "args": [
-                "run -non_snake_case"
+                "run"
             ],
             "problemMatcher": [
                 "$rustc"
